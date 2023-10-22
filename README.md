@@ -6,7 +6,9 @@
 
 - 🛠️ I thrive on creating things. Whether it's crafting elegant lines of code, strumming my guitar to create harmonious melodies, conquering virtual worlds in video games, or putting brush to canvas and bringing my imagination to life through painting, the act of creation is at the heart of who I am.
 
-<br/>
+<hr>
+<img align="center" src="catlaptop.gif" /> 
+<hr>
 
 <a href="https://github.com/HanadiHosri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HanadiHosri&theme=buefy&show_icons=true" />
@@ -14,6 +16,7 @@
 </a>
 
 <br/>
+<hr>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
