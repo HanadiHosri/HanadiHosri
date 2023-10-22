@@ -1,4 +1,4 @@
-<h3> <img align="left" src="HandWave.gif" /> Hello, I'm Hanadi Matar Al Hosri! </h3>
+<img align="left" src="HandWave.gif" /> <h3>  Hello, I'm Hanadi Matar Al Hosri! </h3>
 
 🎓 I hold a Bachelor of Science in Physics, where my passion for unraveling the mysteries of the physical world was ignited. However, my journey has taken an exciting turn as I embark on the path to becoming a software developer. I'm eager to explore the endless possibilities of the digital realm and turn my curiosity into code.
 
