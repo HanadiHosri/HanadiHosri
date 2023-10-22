@@ -4,7 +4,7 @@
 
 - 🎓 B.Sc. in Physics
 - 🎓 Studying Foundations of Computer Science at SE Factory
-- 🛠️ Enjoys coding, music, gaming, and painting
+- 🤔 Enjoys coding, music, gaming, and painting
 
 <hr>
 <img align="center" src="catlaptop.gif" /> 
