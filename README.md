@@ -18,7 +18,15 @@
 <br/>
 <hr>
 
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<br/>
+<hr>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/hanadi-hosri-836302245/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hanadi%20Matar%20Hosri-blue?style=flat-square&logo=linkedin"></a>
