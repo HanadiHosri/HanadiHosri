@@ -10,13 +10,6 @@
 <img align="center" src="catlaptop.gif" /> 
 <hr>
 
-<a href="https://github.com/HanadiHosri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HanadiHosri&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanadiHosri&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-<hr>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -32,3 +25,11 @@
 <a href="https://www.linkedin.com/in/hanadi-hosri-836302245/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hanadi%20Matar%20Hosri-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:hanadi.hosri@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hanadi.hosri@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+<br/>
+<hr>
+
+<a href="https://github.com/HanadiHosri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HanadiHosri&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanadiHosri&theme=buefy&layout=compact" />
+</a>
