@@ -3,7 +3,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 B.Sc. in Physics
-- 🎓 Studying Foundations of Computer Science at SE Factory
 - 🤔 Enjoys coding, music, gaming, and painting
 
 <hr>
