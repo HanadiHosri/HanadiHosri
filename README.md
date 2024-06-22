@@ -1,4 +1,4 @@
-<img align="left" src="HandWave.gif" style="width: 50px; height: 50px;" /> <h2>  Hello, I'm Hanadi Matar Al Hosri! </h2>
+<img align="left" src="HandWave.gif" style="width: 50px; height: 50px;" /> <h2>  Hello, I'm Hanadi Hosri! </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
