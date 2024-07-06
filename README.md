@@ -13,7 +13,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  Python, HTML, CSS, Javascript, PHP, SQL
 
 <br/>
 <hr>
@@ -21,7 +21,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/hanadi-hosri-836302245/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hanadi%20Matar%20Hosri-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:hanadi.hosri@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hanadi.hosri@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
